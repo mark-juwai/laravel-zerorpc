@@ -11,12 +11,12 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:juwai/zerorpc-php.git"
+            "url": "git@github.com:mark-juwai/zerorpc-php.git"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "0rpc/zerorpc-php": ">=1.2.5"
+        "0rpc/zerorpc-php": "dev-timeout_reconnect"
     },
     "autoload": {
         "psr-4": {
